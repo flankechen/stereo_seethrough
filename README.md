@@ -1,6 +1,6 @@
-## stereo seeghtough
+## stereo see-through
 
-this is the executable and source code of stereo seethrough for VisionerTech VMG-PROV 01. once you have calibrate the headset with [stereo cabliration](https://github.com/flankechen/stereo_calib_executable), run this and put it in the headset to see rectified image pair for seethrough experience.
+this is the executable and source code of stereo seethrough for VisionerTech VMG-PROV 01. once you have calibrate the headset with [stereo cabliration](https://github.com/flankechen/stereo_calib_executable), run this and put it in the headset to see rectified image pair for see-through experience.
 
 ## Requirement:
 
@@ -13,3 +13,5 @@ this is the executable and source code of stereo seethrough for VisionerTech VMG
 
 ## How to Run
 1. run it like: >>stereo_seethrough.exe follow by the camera index. >>stereo_seethrough.exe 0 1
+
+/exe/ folder holds a executable exe file.
